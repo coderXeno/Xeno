@@ -1,0 +1,13 @@
+{
+  "name": "jstestbot",
+  "version": "1.0.0",
+  "description": "testing dev a js discord bot",
+  "main": "index.js",
+  "author": "universalXeno",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.3.0-dev.1634429115.7513b45",
+    "node-fetch": "^3.0.0",
+    "pokecord": "^1.0.1"
+  }
+}
