@@ -7,7 +7,7 @@ const Command = require('./structures/Command');
 const mongoose=require("mongoose");
 const schema=require("./schema/boostNotif");
 
-mongoose.connect('mongodb+srv://ethXeno:xeno2021@xeno.6lxkx.mongodb.net/test',{
+mongoose.connect('<db-link(preferably srv>',{
     useUnifiedTopology: true
 }).then(console.log('Connected to Mongoose'))
 
